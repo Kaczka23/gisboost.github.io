@@ -4,4 +4,4 @@ test
 test
 ### test
 **test bold**
-![image](/assets/img/logo_h.png)
+![image](/assets/img/logo_h.png){: .align-right width="300px"}
